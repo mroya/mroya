@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi!! I'm Márcio Roya 👋
+### Welcome to my GitHub! 🖖🎉🎧
 
-- 🔭 I’m currently working on stand by
-- 🌱 I’m currently Java, Python
+- 🔭 I'm currently studying Information Systems in Unisinos/RS
+- 🌱 I’m currently learning Java, Python
 
 ###
 
