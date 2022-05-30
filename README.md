@@ -2,7 +2,7 @@
 ### Welcome to my GitHub! 🖖🎉🎧
 
 - 🔭 I'm currently studying Information Systems in Unisinos/RS
-- 🌱 I’m currently learning Java, JavaScript, Python
+- 🌱 I’m currently learning Java, JavaScript, Python, HTML, CSS
 
 ###
 
