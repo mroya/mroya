@@ -2,14 +2,14 @@
 ### Welcome to my GitHub! 🖖🎉🎧
 
 - 🔭 I'm currently studying Information Systems in Unisinos/RS
-- 🌱 I’m currently learning Java, JavaScript, Python, Kotlin, HTML, CSS
+- 🌱 I’m currently learning Java, JavaScript, Python, Kotlin, HTML, CSS, Android
 
 ###
 
 <div align="center">
   <a href="https://github.com/mroya">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=mroya&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mroya&layout=compact&langs_count=7&theme=dark"/><br>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mroya&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mroya&layout=compact&langs_count=15&theme=dark"/><br>
 
 </div>
 
@@ -25,7 +25,8 @@
   <img align="center" alt="Marcio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Marcio-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Marcio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Marcio-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><br>
+  <img align="center" alt="Marcio-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Marcio-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"><br>
 </div>
 
 ###
