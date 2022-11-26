@@ -1,7 +1,7 @@
-### Hi!! I'm Márcio Roya 👋
-### Welcome to my GitHub! 🖖🎉🎧
+### Hi Everyone, Welcome to my GitHub! 👋
+### 🖖🎉🎧
 
-- 🔭 I'm currently studying Information Systems in Unisinos/RS
+- 🔭 I am currently studying Information Systems at Unisinos University in Porto Alegre/RS
 - 🌱 I’m currently learning Java, JavaScript, Python, Kotlin, HTML, CSS, Android
 
 ###
@@ -28,7 +28,7 @@
   <img align="center" alt="Marcio-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Marcio-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"><br>
 </div>
-
+  
 ###
 ### Redes Sociais  
 <div> 
