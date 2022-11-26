@@ -10,7 +10,7 @@
   <a href="https://github.com/mroya">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mroya&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mroya&layout=compact&langs_count=15&theme=dark"/><br>
-
+  ![Snake animation](https://github.com/mroya/mroya/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ###  
@@ -38,6 +38,6 @@
   <a href = "mailto:royamarcio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcio-roya/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
   
-  ![Snake animation](https://github.com/mroya/mroya/blob/output/github-contribution-grid-snake.svg)
+  
  
 </div>
