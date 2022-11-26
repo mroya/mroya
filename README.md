@@ -10,7 +10,8 @@
   <a href="https://github.com/mroya">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mroya&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mroya&layout=compact&langs_count=15&theme=dark"/><br>
-  ![Snake animation](https://github.com/mroya/mroya/blob/output/github-contribution-grid-snake.svg)
+  
+    ![Snake animation](https://github.com/mroya/mroya/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ###  
