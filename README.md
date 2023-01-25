@@ -28,5 +28,9 @@
 <a href="https://discord.gg/Lizzard-Roya#0929" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href = "mailto:royamarcio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marcio-roya/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
+
+### Spotify Playing 🎧
+[<img src="https://novatorem-mroya.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />]
+(https://open.spotify.com/user/cbe7dc6bbc944d9c9d9dd6fbd3a0569a)">
   </div>   
 </div>
