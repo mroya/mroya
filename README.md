@@ -30,7 +30,8 @@
 <a href="https://www.linkedin.com/in/marcio-roya/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem-mroya.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />]
-(https://open.spotify.com/user/cbe7dc6bbc944d9c9d9dd6fbd3a0569a)">
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem-mroya.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/cbe7dc6bbc944d9c9d9dd6fbd3a0569a)
+</div>
   </div>   
 </div>
