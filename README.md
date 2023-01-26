@@ -1,4 +1,4 @@
-### Hi Everyone, Welcome to my GitHub! 👋 🖖🎉🎧 ###
+### Hi everybody, Welcome to my GitHub! 👋 🖖🎉🎧 ###
 - 🔭 I am currently studying Information Systems at Unisinos University in Porto Alegre/RS
 - 🌱 I’m currently learning Java, JavaScript, Python, Kotlin, HTML, CSS, Android
 ###
