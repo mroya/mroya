@@ -1,6 +1,6 @@
 ### Hi everybody, Welcome to my GitHub! 👋 🖖🎉🎧 ###
-- 🔭 I am currently studying Information Systems at Unisinos University in Porto Alegre/RS
-- 🌱 I’m currently learning Java, JavaScript, HTML, CSS, Android
+- 🔭 I am currently studying Information Systems at Unisinos University in Porto Alegre/RS.
+- 🌱 I’m currently learning Java, JavaScript, HTML, CSS.
 ###
 <div align="center">
   <a href="https://github.com/mroya">
