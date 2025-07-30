@@ -24,12 +24,12 @@
   <br>
 </div>
 <hr>
-<div align="center">
+<!--<div align="center">
   
   
-### Spotify Playing 🎧
+<!--### Spotify Playing 🎧
 &nbsp;<div align="center">
   [![Spotify](https://novatorem-mroya.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/cbe7dc6bbc944d9c9d9dd6fbd3a0569a)
-</div>
+</div>-->
   </div>   
 </div>
