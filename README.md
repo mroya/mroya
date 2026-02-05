@@ -1,6 +1,6 @@
 ### Hi everybody, Welcome to my GitHub! 👋 🖖🎉🎧 ###
 - 🔭 I am currently studying Information Systems at Unisinos University in Porto Alegre/RS.
-- 🌱 I’m currently learning Java, JavaScript, HTML, CSS.
+- 🌱 I’m currently learning Java, JavaScript, React, HTML, CSS.
 ###
 <div align="center">
   <a href="https://github.com/mroya">
@@ -24,12 +24,3 @@
   <br>
 </div>
 <hr>
-<!--<div align="center">
-  
-  
-### Spotify Playing 🎧
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem-mroya.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/cbe7dc6bbc944d9c9d9dd6fbd3a0569a)
-</div>
-  </div>   
-</div>
