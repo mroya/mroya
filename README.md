@@ -69,10 +69,8 @@ Minha jornada combina a lógica do desenvolvimento de software com a eficiência
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/mroya">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mroya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mroya&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mroya&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mroya&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -80,13 +78,5 @@ Minha jornada combina a lógica do desenvolvimento de software com a eficiência
 <div align="center">
   <a href="https://www.linkedin.com/in/marcio-roya/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  <a href="mailto:seu-email-aqui@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</div>
-## Estatísticas
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mroya&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mroya&langs_count=8&layout=compact&theme=dark" />
+  </a>   
 </div>
