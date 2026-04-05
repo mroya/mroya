@@ -2,56 +2,51 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Sistemas+de+informa%C3%A7%C3%A3o+%40+Unisinos;Gest%C3%A3o+%26+Lideran%C3%A7a;Java+%7C+Spring+%7C+React+%7C+Firebase" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Gerente+Trainee+%26+Dev;Retail+AI+%26+BI+Solutions;Google+Gemini+%7C+Make.com;React+%7C+Firebase+%7C+Java" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <i>"A verdade só pode ser encontrada em um lugar: no código."</i>
+  <i>"Transformando dados brutos em planos de ação táticos no chão de loja."</i>
 </div>
 
 <br>
 
 ### 🚀 Sobre mim
 
-Minha jornada combina a lógica do desenvolvimento de software com a eficiência da gestão de equipes. Atualmente cursando **Sistemas de Informação na Unisinos**, utilizo minha experiência em liderança para criar soluções que não apenas funcionam tecnicamente, mas que resolvem problemas reais de negócio.
+Minha jornada é o ponto de encontro entre a **visão estratégica de gestão** e o **desenvolvimento de software de alta performance**. Atualmente cursando **Sistemas de Informação na Unisinos**, foco minha energia em criar soluções de **Business Intelligence (BI)** e **Inteligência Artificial** que resolvem gargalos operacionais e potencializam a lucratividade no varejo.
 
-- 🔭 **Foco atual:** Desenvolvimento Full Stack com **Java (Spring)** e **React**.
-- 💼 **Experiência:** Vivência em gestão de processos e liderança de equipes, buscando otimizar rotinas através da tecnologia.
-- ⚡ **Interesses:** Arquitetura de Software, French House/Nu-Disco 🎧 e Fotografia 📸.
+- 🔭 **Foco atual:** Evolução do **Retail AI Dashboard**, integrando modelos de LLM para consultoria tática em tempo real.
+- 💼 **Perfil:** Gerente Trainee focado em liderança baseada em dados, otimização de processos e cultura de alta performance.
+- ⚡ **Interesses:** Arquitetura de Software, Inteligência Artificial Aplicada, Nu-Disco 🎧 e Fotografia 📸.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Minha Caixa de Ferramentas
+
+**Inteligência Artificial & Automação**
+<div style="display: inline_block">
+  <img align="center" alt="Gemini" height="40" src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  <img align="center" alt="Make" height="40" src="https://img.shields.io/badge/Make.com-1A1A1A?style=for-the-badge&logo=make&logoColor=white" />
+</div>
+
+<br>
 
 **Backend & Banco de Dados**
 <div style="display: inline_block">
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Firebase" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  <img align="center" alt="NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
 <br>
 
-**Frontend**
+**Frontend & Design**
 <div style="display: inline_block">
   <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
   <img align="center" alt="Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</div>
-
-<br>
-
-**DevOps & Ferramentas**
-<div style="display: inline_block">
-  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Vercel" height="40" width="40" src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" />
-  <img align="center" alt="Heroku" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
 </div>
 
 ---
@@ -60,9 +55,18 @@ Minha jornada combina a lógica do desenvolvimento de software com a eficiência
 
 | Projeto | Descrição | Techs |
 | :--- | :--- | :--- |
-| **Roya Escala** | Aplicação web para gestão de escalas de trabalho e rotinas de equipe. | `React` `Firebase` |
-| **Cloud Parking** | Sistema de controle de estacionamento em nuvem. | `Java` `Spring` `Cloud` |
-| **DRE Analyzer** | Ferramenta para análise de Demonstrativo de Resultados do Exercício. | `JS` `Vercel` |
+| **Retail AI Dashboard** | Co-piloto de BI para varejo com radar de metas por turno, projeções preditivas e planos de ação automatizados via IA. | `React` `Firebase` `Gemini` `Make` |
+| **Roya Escala** | Aplicação focada em gestão de escalas de trabalho e produtividade de equipe. | `React` `Firebase` |
+| **Cloud Parking** | Sistema robusto para controle e gestão de estacionamentos em nuvem. | `Java` `Spring` `Cloud` |
+
+---
+
+### 🔮 Roadmap de Estudos & Evolução
+
+- [x] **Gestão Hora a Hora:** Implementação de Radar de Turnos com persistência real-time.
+- [x] **IA Consultiva:** Integração com Google Gemini para diagnósticos de PDV.
+- [ ] **Análise Preditiva:** Modelos para identificação de tendências de queda de rentabilidade.
+- [ ] **Dashboard Multi-Filial:** Centralização de dados de múltiplas unidades para visão regional.
 
 ---
 
@@ -78,5 +82,5 @@ Minha jornada combina a lógica do desenvolvimento de software com a eficiência
 <div align="center">
   <a href="https://www.linkedin.com/in/marcio-roya/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>   
+  </a>    
 </div>
