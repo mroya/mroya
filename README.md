@@ -72,7 +72,7 @@ Minha jornada é o ponto de encontro entre a **visão estratégica de gestão** 
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mroya&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mroya&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
