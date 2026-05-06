@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Gerente+Trainee+%26+Dev;Retail+AI+%26+BI+Solutions;Google+Gemini+%7C+Make.com;React+%7C+Firebase+%7C+Java" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Dev;Retail+AI+%26+BI+Solutions;Google+Gemini+%7C+Make.com;React+%7C+Firebase+%7C+Java" alt="Typing SVG" />
   </a>
 </div>
 
@@ -25,29 +25,20 @@ Minha jornada é o ponto de encontro entre a **visão estratégica de gestão** 
 ### 🛠️ Minha Caixa de Ferramentas
 
 **Inteligência Artificial & Automação**
-<div style="display: inline_block">
-  <img align="center" alt="Gemini" height="40" src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-  <img align="center" alt="Make" height="40" src="https://img.shields.io/badge/Make.com-1A1A1A?style=for-the-badge&logo=make&logoColor=white" />
-</div>
+<br>
+<img alt="Gemini" height="40" src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" /> <img alt="Make" height="40" src="https://img.shields.io/badge/Make.com-1A1A1A?style=for-the-badge&logo=make&logoColor=white" />
 
 <br>
 
 **Backend & Banco de Dados**
-<div style="display: inline_block">
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="Firebase" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-  <img align="center" alt="NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-</div>
+<br>
+<img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img alt="Spring" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img alt="Firebase" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> <img alt="NodeJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
 <br>
 
 **Frontend & Design**
-<div style="display: inline_block">
-  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
-  <img align="center" alt="Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-</div>
+<br>
+<img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img alt="Tailwind" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /> <img alt="Js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
 ---
 
@@ -81,6 +72,6 @@ Minha jornada é o ponto de encontro entre a **visão estratégica de gestão** 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marcio-roya/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>    
 </div>
