@@ -1,4 +1,4 @@
-# Olá, eu sou o Márcio Roya! 👋
+# Olá, eu sou o Roya ! 👋
 
 <div align="center">
   <a href="https://git.io/typing-svg">
