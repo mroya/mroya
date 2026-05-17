@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Márcio dos Reis de Roya 👋</h1>
+<h1 align="center">Olá, eu sou Márcio Roya 👋</h1>
 
 <p align="center">
   Gestor de varejo farmacêutico, entusiasta de tecnologia e criador de soluções digitais para análise de performance, automação de dados e apoio à tomada de decisão.
