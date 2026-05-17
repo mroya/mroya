@@ -112,17 +112,19 @@ Atualmente estou evoluindo soluções para:
 
 <p align="center">
   <img 
-    height="165" 
-    src="https://github-readme-stats.vercel.app/api?username=mroya&show_icons=true&theme=dark&hide_border=true&count_private=true" 
-    alt="GitHub Stats" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mroya&theme=github_dark" 
+    alt="Resumo do perfil GitHub"
   />
 </p>
 
 <p align="center">
   <img 
-    height="165" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mroya&layout=compact&theme=dark&hide_border=true" 
-    alt="Top Languages" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mroya&theme=github_dark" 
+    alt="Linguagens por repositório"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mroya&theme=github_dark" 
+    alt="Linguagens por commit"
   />
 </p>
 
