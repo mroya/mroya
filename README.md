@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Márcio Roya 👋</h1>
+<h1 align="center">Olá, eu sou Márcio dos Reis de Roya 👋</h1>
 
 <p align="center">
   Gestor de varejo farmacêutico, entusiasta de tecnologia e criador de soluções digitais para análise de performance, automação de dados e apoio à tomada de decisão.
@@ -10,6 +10,12 @@
   </a>
   <a href="https://dashboard-gerente.vercel.app/">
     <img src="https://img.shields.io/badge/Dashboard%20Gerente-Online-0A66C2?style=for-the-badge&logo=vercel" alt="Dashboard Gerente"/>
+  </a>
+  <a href="https://github.com/mroya/dashboard-regional">
+    <img src="https://img.shields.io/badge/Dashboard%20Regional-Projeto-2563EB?style=for-the-badge&logo=react" alt="Dashboard Regional"/>
+  </a>
+  <a href="https://github.com/mroya/Hourly-beep">
+    <img src="https://img.shields.io/badge/Hourly%20Beep-Produtividade-F59E0B?style=for-the-badge&logo=javascript" alt="Hourly Beep"/>
   </a>
 </p>
 
@@ -30,24 +36,73 @@ Tenho interesse especial em:
 - Análise de indicadores comerciais
 - Firebase, React, Vite e Vercel
 - Criação de materiais operacionais e apresentações estratégicas
+- Ferramentas simples para produtividade e rotina operacional
 
 ---
 
-## Projeto em destaque
+## Projetos em destaque
 
 ### Dashboard Gerente
 
-Sistema web desenvolvido para acompanhamento de indicadores de loja, análise de performance comercial e apoio à tomada de decisão.
+Sistema web desenvolvido para acompanhamento de indicadores de loja, análise de performance comercial e apoio à tomada de decisão no varejo farmacêutico.
 
 O projeto reúne dados de vendas, metas, desvios, indicadores por departamento, gráficos e sugestões operacionais para facilitar a rotina de gestão.
 
-🔗 Acesse o projeto online:
+**Principais pontos:**
 
-https://dashboard-gerente.vercel.app/
+- Dashboard gerencial para loja
+- Indicadores comerciais e operacionais
+- Análise por departamento
+- Apoio à leitura FCA: Fato, Causa e Ação
+- Integração com Firebase, Firestore, React, Vite e Vercel
+- Possibilidade de integração com automações e IA
 
-🔗 Repositório:
+**Links:**
 
-https://github.com/mroya/dashboard-gerente
+- Projeto online: https://dashboard-gerente.vercel.app/
+- Repositório: https://github.com/mroya/dashboard-gerente
+
+---
+
+### Dashboard Regional
+
+Projeto criado para ampliar a visão gerencial, saindo da análise individual de loja para uma leitura regional de performance.
+
+A proposta é consolidar indicadores de diferentes unidades, facilitando o acompanhamento comparativo, a identificação de oportunidades e o suporte à tomada de decisão em nível regional.
+
+**Principais pontos:**
+
+- Visão consolidada de performance regional
+- Comparativo entre lojas ou unidades
+- Apoio à gestão por indicadores
+- Leitura rápida de desvios e oportunidades
+- Base para acompanhamento estratégico
+- Evolução natural do Dashboard Gerente para uma visão mais ampla
+
+**Links:**
+
+- Repositório: https://github.com/mroya/dashboard-regional
+
+---
+
+### Hourly Beep
+
+Aplicação simples e funcional criada para emitir alertas sonoros em intervalos de tempo, ajudando na organização da rotina, marcação de horários e lembretes operacionais.
+
+O projeto demonstra foco em utilidade prática, simplicidade de uso e aplicação direta no dia a dia.
+
+**Principais pontos:**
+
+- Alerta sonoro por horário
+- Apoio à rotina operacional
+- Interface simples e objetiva
+- Projeto leve e direto
+- Aplicação prática para organização de tempo
+- Desenvolvimento voltado à produtividade
+
+**Links:**
+
+- Repositório: https://github.com/mroya/Hourly-beep
 
 ---
 
@@ -63,6 +118,7 @@ https://github.com/mroya/dashboard-gerente
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make.com"/>
   <img src="https://img.shields.io/badge/IA%20Generativa-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="IA Generativa"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 ---
@@ -91,20 +147,36 @@ Dados
 ├── Relatórios
 ├── Projeções
 └── Análise de performance
+
+Produtividade
+├── Ferramentas simples
+├── Alertas operacionais
+├── Organização de rotina
+└── Soluções práticas para o dia a dia
 ```
 
 ---
 
 ## O que estou construindo
 
-Atualmente estou evoluindo soluções para:
+Atualmente estou evoluindo projetos que conectam gestão, dados, automação e produtividade operacional.
 
-- Automatizar leitura de relatórios
-- Transformar PDFs e prints em dados estruturados
-- Atualizar dashboards com dados de vendas
-- Criar análises rápidas para gestores
-- Gerar planos de ação com base em desvios
-- Melhorar a visualização de indicadores comerciais
+Meus principais focos são:
+
+- Dashboards para acompanhamento de indicadores comerciais
+- Visões gerenciais por loja e por região
+- Automação de leitura de relatórios
+- Transformação de PDFs e prints em dados estruturados
+- Atualização de dashboards com dados de vendas
+- Criação de análises rápidas para gestores
+- Geração de planos de ação com base em desvios
+- Ferramentas simples para produtividade e rotina operacional
+
+Projetos recentes em evolução:
+
+- **Dashboard Gerente** — visão gerencial da loja
+- **Dashboard Regional** — visão consolidada para acompanhamento regional
+- **Hourly Beep** — ferramenta simples para alertas e organização por horário
 
 ---
 
@@ -136,6 +208,15 @@ Meu objetivo é unir experiência prática em gestão de loja com tecnologia, da
 
 Acredito que bons indicadores só fazem sentido quando ajudam o time a agir melhor.
 
+Por isso, meus projetos têm foco em:
+
+- Clareza visual
+- Aplicação prática
+- Leitura rápida de indicadores
+- Apoio à tomada de decisão
+- Simplicidade para uso operacional
+- Melhoria contínua da gestão
+
 ---
 
 ## Contato
@@ -147,5 +228,5 @@ https://github.com/mroya
 ---
 
 <p align="center">
-  Feito com foco em gestão, dados e melhoria contínua.
+  Feito com foco em gestão, dados, produtividade e melhoria contínua.
 </p>
