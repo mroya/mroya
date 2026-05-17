@@ -221,9 +221,17 @@ Por isso, meus projetos têm foco em:
 
 ## Contato
 
-Você pode me encontrar pelo GitHub:
-
-https://github.com/mroya
+<p>
+  <a href="https://github.com/mroya">
+    <img src="https://img.shields.io/badge/GitHub-mroya-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/marcio-roya/">
+    <img src="https://img.shields.io/badge/LinkedIn-Márcio%20Roya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/roya.marcio">
+    <img src="https://img.shields.io/badge/Instagram-@roya.marcio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 ---
 
