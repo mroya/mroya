@@ -1,44 +1,21 @@
 <div align="center">
 
-# 🚀 MR LABS
+# MR LABS
 
-### Building digital products that matter.
+<img src="assets/social/social-card.svg" width="100%"/>
 
-**Mobile • AI • Dashboards • Automation • Open Source**
-
----
-
-*"Transformando ideias em produtos digitais."*
+### Building Digital Products That Matter
 
 </div>
 
----
+## Projetos
 
-# 👋 Bem-vindo
+- 🧠 Lembretes
+- 📊 Dashboard Gerente
+- 📈 Dashboard Regional
+- ⏰ Hourly Beep
+- 👥 ShiftList
 
-Este é o perfil oficial do **MR Labs**, meu laboratório de desenvolvimento onde construo aplicações modernas, dashboards, ferramentas de produtividade e soluções utilizando Inteligência Artificial.
+## Stack
 
-Aqui você encontrará projetos desenvolvidos com foco em:
-
-- 📱 Aplicativos Mobile
-- 📊 Dashboards Inteligentes
-- 🤖 Inteligência Artificial
-- ☁️ Cloud & Firebase
-- ⚡ Automações
-- 🎨 Interfaces Modernas
-
----
-
-# 🧩 Projetos
-
-| Projeto | Status |
-|---------|:------:|
-| 🧠 Lembretes | 🚧 |
-| 📊 Dashboard Gerente | ✅ |
-| 📈 Dashboard Regional | 🚧 |
-| ⏰ Hourly Beep | 🚧 |
-| 👥 ShiftList | 🚧 |
-
----
-
-> 🚧 Este perfil está sendo redesenhado e receberá uma identidade visual completa do **MR Labs**.
+Flutter • React • Firebase • AI • GitHub Actions
