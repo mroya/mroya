@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 Featured Projects
-
+<div align="center">
 | Project | Description |
 |---------|-------------|
 | 🧠 **Lembretes** | Smart reminder application focused on productivity |
@@ -19,7 +19,7 @@
 | 📈 **Dashboard Regional** | Regional performance analytics |
 | ⏰ **Hourly Beep** | Casio-inspired hourly chime application |
 | 👥 **ShiftList** | Intelligent employee scheduling |
-
+</div>
 ---
 
 ## ⚡ Tech Stack
