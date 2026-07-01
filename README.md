@@ -37,16 +37,8 @@ I design and build modern applications, intelligent dashboards, automation tools
 ---
 <br>
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=flutter,dart,react,vite,firebase,nodejs,python,git,github,vscode"/>
-
 </p>
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mroya&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=mroya&theme=transparent&hide_border=true"/>
