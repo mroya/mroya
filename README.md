@@ -35,6 +35,7 @@ I design and build modern applications, intelligent dashboards, automation tools
 👥 **ShiftList**
 > Intelligent workforce scheduling.
 ---
+<br>
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,react,vite,firebase,nodejs,python,git,github,vscode"/>
