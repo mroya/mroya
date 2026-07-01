@@ -1,42 +1,49 @@
 <div align="center">
 
-# MR LABS
+<img src="assets/banner/mr-labs-banner.png" width="100%" alt="MR Labs">
 
-### Building Digital Products That Matter
+<br>
 
-**Mobile • AI • Dashboards • Automation • Open Source**
+# MR Labs
+
+### Building Digital Products
+
+Modern applications • AI • Dashboards • Automation
 
 </div>
 
 ---
+## About
 
-## 🚀 Featured Projects
+MR Labs is my digital product studio where ideas become production-ready software.
 
-| Project | Description |
-|---------|-------------|
-| 🧠 **Lembretes** | Smart reminder application focused on productivity |
-| 📊 **Dashboard Gerente** | Business dashboard for retail management |
-| 📈 **Dashboard Regional** | Regional performance analytics |
-| ⏰ **Hourly Beep** | Casio-inspired hourly chime application |
-| 👥 **ShiftList** | Intelligent employee scheduling |
+I design and build modern applications, intelligent dashboards, automation tools and AI-powered solutions with a strong focus on user experience, clean architecture and long-term maintainability.
+## Featured Projects
 
----
+🧠 **Lembretes**
+> Modern reminder application focused on productivity.
 
-## ⚡ Tech Stack
+📊 **Dashboard Gerente**
+> Business intelligence platform for retail management.
 
+📈 **Dashboard Regional**
+> Regional analytics and performance monitoring.
+
+⏰ **Hourly Beep**
+> Modern recreation of the classic Casio hourly chime.
+
+👥 **ShiftList**
+> Intelligent workforce scheduling.
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,vite,firebase,nodejs,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,vite,firebase,nodejs,python,git,github,vscode"/>
+
 </p>
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mroya&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mroya&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mroya&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mroya&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
@@ -45,30 +52,14 @@
 <img src="https://streak-stats.demolab.com?user=mroya&theme=transparent&hide_border=true"/>
 
 </p>
+## Current Focus
 
----
+- 🚀 MR Labs Branding
+- 🧠 Lembretes
+- 🤖 AI Integrations
+- 📊 Business Intelligence
+## Connect
 
-## 🚧 Now Building
-
-```text
-🧠 Lembretes           ████████████████░░ 85%
-📊 Dashboard Gerente   ██████████████████ 100%
-📈 Dashboard Regional  █████████████░░░░ 70%
-⏰ Hourly Beep         ██████████░░░░░░░ 55%
-👥 ShiftList           ████████░░░░░░░░░ 40%
-```
-
----
-
-## 📫 Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/marcio-roya/
-- 🐙 GitHub: https://github.com/mroya
-
----
-
-<div align="center">
-
-### Build • Improve • Ship • Repeat
-
-</div>
+- 💼 LinkedIn
+- 📷 Instagram
+- 🐙 GitHub
