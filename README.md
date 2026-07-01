@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner/mr-labs-banner.svg" width="100%" alt="MR Labs Banner">
+</p>
 <div align="center">
 
 # MR LABS
