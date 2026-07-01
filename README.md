@@ -43,8 +43,6 @@ I design and build modern applications, intelligent dashboards, automation tools
 </p>
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mroya&show_icons=true&theme=transparent&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mroya&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
